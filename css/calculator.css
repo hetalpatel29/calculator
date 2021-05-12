@@ -1,0 +1,40 @@
+label {
+    height: 50px;
+    width: 100px;
+    border: 1px solid gray;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    box-shadow: 0px 0px 5px grey;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.textbox {
+    height: 50px;
+    width: 200px;
+    border: 1px solid grey;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    box-shadow: 0px 0px 5px grey;
+}
+
+button {
+    height: 30px;
+    width: 60px;
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;
+}
